@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Jain</h1>
-<h3 align="center">A passionate AI/ML and Software developer who also dwelled in Data Analytics</h3>
+<h3 align="center"> Passionate about AI/ML and a Software Developer who also dwelled in Data Analytics</h3>
 
-- 🔭 I’m currently a Final Year, CSE Major Student **at KIET Group of Institutions**
+- 🔭 **CSE Grad** from **KIET Group of Institutions** affiliated to **Dr. A.P.J. Abdul Kalam Technical University, Lucknow**.
 
-- 🌱 I’m currently aspiring about **AI/ML and Software Development and Data Analysis**
+- 🌱 I’m currently aspiring about **AI/ML, Data Analysis and Software Development**.
 
-- 👨‍💻 Experiences: **Ex-Research Intern, Infosys Centre for AI, IIIT Delhi, Ex-Intern Big Data Analysis Lab, IIIT Allahabad, Ex-Intern, ISRO-RACS, MNIT Jaipur**
+- 👨‍💻 Internship: **Ex-Intern, Infosys Centre for AI, IIIT Delhi** (July 2024-August 2024).
 
-- 💡 Patent: **Granted Indian Patent for invention of "Front Light System for Automobiles/Vehicles"**
+- 💡 Patent: **Granted Indian Patent for invention of "[Front Light System for Automobiles/Vehicles](https://drive.google.com/file/d/1nE6AFsQ9AQdGT6JdT-HaG8scOpINJRdT/view?usp=sharing)"**
 
-- 📰 Publication: **Co-Authored a Research Paper "A Novel Framework for Search Engine Evaluation" which was Accepted at 53rd Annual Decision Sciences Institute Conference, Texas, USA**
+- 📰 Publication: **Co-Authored a Research Paper "[A Novel Framework for Search Engine Evaluation](https://drive.google.com/file/d/1z6vzw44l0ZafFtP_hOjOgtndpnE_wapS/view?usp=sharing)" which was Accepted at 53rd Annual Decision Sciences Institute Conference, Texas, USA**.
 
-- 📫 How to reach me: [jainutkarsh691@gmail.com](jainutkarsh691@gmail.com)
+- 📫 How to reach me: [jainutkarsh691@gmail.com](jainutkarsh691@gmail.com) or [utkarshjain164@gmail.com](utkarshjain164@gmail.com)
+
+- 🏠︎ Homepage: [Utkarsh Jain Portfolio](https://utkarsh-jain-homepage.netlify.app/)
 
 
 <h3 align="left">Connect with me:</h3>
