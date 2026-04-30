@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: [jainutkarsh691@gmail.com](jainutkarsh691@gmail.com)
 
-- 🏠︎ Homepage: [Utkarsh Jain Portfolio](https://utkarsh-jain-homepage.netlify.app/)
+- 🏠︎ Homepage: [Utkarsh Jain Portfolio](https://jainutkarsh18.github.io/Utkarsh-Jain_Portfolio./)
 
 
 <h3 align="left">Connect with me:</h3>
