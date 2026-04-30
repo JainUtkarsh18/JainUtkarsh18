@@ -11,7 +11,7 @@
 
 - 📰 Publication: **Co-Authored a Research Paper "[A Novel Framework for Search Engine Evaluation](https://drive.google.com/file/d/1z6vzw44l0ZafFtP_hOjOgtndpnE_wapS/view?usp=sharing)" which was Accepted at 53rd Annual Decision Sciences Institute Conference, Texas, USA**.
 
-- 📫 How to reach me: [jainutkarsh691@gmail.com](jainutkarsh691@gmail.com) or [utkarshjain164@gmail.com](utkarshjain164@gmail.com)
+- 📫 How to reach me: [jainutkarsh691@gmail.com](jainutkarsh691@gmail.com)
 
 - 🏠︎ Homepage: [Utkarsh Jain Portfolio](https://utkarsh-jain-homepage.netlify.app/)
 
