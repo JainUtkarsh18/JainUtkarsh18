@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Jain</h1>
+<h1 align="center">Hi 👋🏻, I'm Utkarsh Jain</h1>
 <h3 align="center"> Passionate about AI/ML and a Software Developer who also dwelled in Data Analytics</h3>
 
 - 🔭 **CSE Grad** from **KIET Group of Institutions** affiliated to **Dr. A.P.J. Abdul Kalam Technical University, Lucknow**.
