@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently aspiring about **AI/ML, Data Analysis and Software Development**.
 
-- 👨‍💻 Internship: **AI Research Intern, Infosys Centre for AI, IIIT Delhi** (July 2024-August 2024), **Summer Intern, Big Data Analysis Lab, IIIT Allahabad** (May 2024-June 2024), **Machine Learning Intern Indian Space Research Organization-RACS, MNIT Jaipur** (April 2023-June 2023).
+- 👨‍💻 Internship: **AI Research Intern, Infosys Centre for AI, IIIT Delhi** (July 2024-August 2024), **Summer Intern, Big Data Analysis Lab, IIIT Allahabad** (May 2024-June 2024), **Machine Learning Intern, Indian Space Research Organization-RACS, MNIT Jaipur** (April 2023-June 2023).
 
 - 💡 Patent: **Granted Indian Patent for invention of "[Front Light System for Automobiles/Vehicles](https://drive.google.com/file/d/1nE6AFsQ9AQdGT6JdT-HaG8scOpINJRdT/view?usp=sharing)"**
 
