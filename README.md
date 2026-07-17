@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋🏻, I'm Utkarsh Jain</h1>
-<h3 align="center"> Passionate about AI/ML and a Software Developer who also dwelled in Data Analytics</h3>
+<h3 align="center"> Passionate about AI/ML and a Software Developer who also dwells in Data Analytics</h3>
 
-- 🔭 **CSE Grad** from **KIET Group of Institutions** affiliated to **Dr. A.P.J. Abdul Kalam Technical University, Lucknow**.
+- 🔭 **CSE Grad** from **KIET Group of Institutions, Ghaziabad** affiliated to **Dr. A.P.J. Abdul Kalam Technical University, Lucknow**.
 
 - 🌱 I’m currently aspiring about **AI/ML, Data Analysis and Software Development**.
 
-- 👨‍💻 Internship: **AI Research Intern, Infosys Centre for AI, IIIT Delhi** (July 2024-August 2024), **Summer Intern, Big Data Analysis Lab, IIIT Allahabad** (May 2024-June 2024), **Machine Learning Intern, Indian Space Research Organization-RACS, MNIT Jaipur** (April 2023-June 2023).
+- 🔬 Research Internship: **AI Research Intern, Distributed Computational and Learning Lab, Infosys Centre for AI, IIIT Delhi** (July 2024-August 2024),
+  
+- 👨‍💻 Internships:  **Summer Intern, Big Data Analysis Lab, IIIT Allahabad** (May 2024-June 2024), **Machine Learning Intern, Indian Space Research Organization-RACS, MNIT Jaipur** (April 2023-June 2023).
 
 - 💡 Patent: **Granted Indian Patent for invention of "[Front Light System for Automobiles/Vehicles](https://drive.google.com/file/d/1nE6AFsQ9AQdGT6JdT-HaG8scOpINJRdT/view?usp=sharing)"**
 
