@@ -20,11 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/utkarshjain7623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utkarshjain7623" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/utkarsh-jain-a407ab24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-jain-a407ab24b" height="30" width="40" /></a>
-<a href="https://kaggle.com/utkarshjain76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="utkarshjain76" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jainutkarsh18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jainutkarsh18" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jainutkavyvy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jainutkavyvy" height="30" width="40" /></a>
+<a href="https://twitter.com/utkarshjain7623" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcoShjIY4UMwnB5O-STm7x5YZpro93cGre0l0QxNNaQ&s" alt="utkarshjain7623" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/utkarsh-jain-a407ab24b" target="blank"><img align="center" src="https://cdn.prod.website-files.com/6798ff28c64131df111e5806/67a3c4d62c417b88697a0725_LinkedIn_icon.svg.png" alt="utkarsh-jain" height="40" width="40" /></a>
+<a href="https://kaggle.com/utkarshjain76" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPtl2QZhIZY0tLREWEAuan3YtJ3KSgS-ZH6wmiJu9BhDZhjiU39ZC5shbH&s=10" alt="utkarshjain76" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/jainutkarsh18" target="blank"><img align="center" src="https://media.licdn.com/dms/image/v2/C4E0BAQFvx45x7j4Zhg/company-logo_200_200/company-logo_200_200/0/1631325952086?e=2147483647&v=beta&t=8xDf3gL66GDEXwDszLlF7Lhpvq7vkdgdzfdm3M5F68E" alt="jainutkarsh18" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jainutkavyvy" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2023/07/Medium-Emblem.png" alt="jainutkavyvy" height="40" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
