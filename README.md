@@ -17,6 +17,8 @@
 
 - 🏠︎ Homepage: [Utkarsh Jain Portfolio](https://jainutkarsh18.github.io/Utkarsh-Jain_Portfolio./)
 
+- 📖 Blogs: Read interesting articles on ML, GenAI, DL and CV. [Utkarsh Jain_MEDIUM](https://medium.com/@jainutkarsh18)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
