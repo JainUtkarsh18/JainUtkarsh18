@@ -11,13 +11,14 @@
   
 - 👨‍💻 Internships:  **Summer Intern, Big Data Analysis Lab, IIIT Allahabad** (May 2024-June 2024), **Machine Learning Intern, Indian Space Research Organization-RACS, MNIT Jaipur** (April 2023-June 2023).
 
+- 📫 How to reach me: [jainutkarsh691@gmail.com](jainutkarsh691@gmail.com)
+
 -->
 
 - 💡 Patent: **Granted Indian Patent for invention of "[Front Light System for Automobiles/Vehicles](https://drive.google.com/file/d/1nE6AFsQ9AQdGT6JdT-HaG8scOpINJRdT/view?usp=sharing)"**
 
 - 📰 Publication: **Co-Authored a Research Paper "[A Novel Framework for Search Engine Evaluation](https://drive.google.com/file/d/1z6vzw44l0ZafFtP_hOjOgtndpnE_wapS/view?usp=sharing)" which was Accepted at 53rd Annual Decision Sciences Institute Conference, Texas, USA**.
 
-- 📫 How to reach me: [jainutkarsh691@gmail.com](jainutkarsh691@gmail.com)
 
 - 🏠︎ Homepage: [Utkarsh Jain Portfolio](https://jainutkarsh18.github.io/Utkarsh-Jain_Portfolio./)
 
