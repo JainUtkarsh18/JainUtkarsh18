@@ -15,12 +15,14 @@
 
 -->
 
-- 💡 Patent: **Granted Indian Patent for invention of "[Front Light System for Automobiles/Vehicles](https://drive.google.com/file/d/1nE6AFsQ9AQdGT6JdT-HaG8scOpINJRdT/view?usp=sharing)"**
+- 💡 Patent: **Granted Indian Patent** for invention of **"_Front Light System for Automobiles/Vehicles_"**
 
-- 📰 Publication: **Co-Authored a Research Paper "[A Novel Framework for Search Engine Evaluation](https://drive.google.com/file/d/1z6vzw44l0ZafFtP_hOjOgtndpnE_wapS/view?usp=sharing)" which was Accepted at 53rd Annual Decision Sciences Institute Conference, Texas, USA**.
+- 📰 Publication: **Co-Authored** a Research Paper **"_A Novel Framework for Search Engine Evaluation_"**, Accepted at 53rd Annual Decision Sciences Institute Conference, Texas, USA.
 
 
 - 🏠︎ Homepage: [Utkarsh Jain Portfolio](https://jainutkarsh18.github.io/Utkarsh-Jain_Portfolio./)
+
+- 🦢 Kaggle: Check out interesting notebooks and datasets on [Kaggle_utkarshjain76](https://www.kaggle.com/utkarshjain76)
 
 - 📖 Blogs: Read interesting articles on ML, GenAI, DL and CV. [Utkarsh Jain_MEDIUM](https://medium.com/@jainutkarsh18)
 
