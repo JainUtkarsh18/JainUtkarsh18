@@ -42,3 +42,13 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainutkarsh18&show_icons=true&locale=en" alt="jainutkarsh18" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainutkarsh18&" alt="jainutkarsh18" /></p>
+
+## GitHub Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JainUtkarsh18/JainUtkarsh18/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JainUtkarsh18/JainUtkarsh18/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/JainUtkarsh18/JainUtkarsh18/output/github-snake.svg">
+  </picture>
+</p>
