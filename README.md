@@ -18,7 +18,7 @@
 - 💡 Patent: **Granted Indian Patent** for invention of **"_Front Light System for Automobiles/Vehicles_"**
 
 - 📰 Publication: **Co-Authored** a Research Paper **"_A Novel Framework for Search Engine Evaluation_"**, Accepted at 53rd Annual Decision Sciences Institute Conference, Texas, USA.
-
+ 
 
 - 🏠︎ Homepage: [Utkarsh Jain Portfolio](https://jainutkarsh18.github.io/Utkarsh-Jain_Portfolio./)
 
