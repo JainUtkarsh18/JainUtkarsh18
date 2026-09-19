@@ -24,7 +24,7 @@
 
 - 🦢 Kaggle: Check out interesting notebooks and datasets on [Kaggle_utkarshjain76](https://www.kaggle.com/utkarshjain76)
 
-- 📖 Blogs: Read interesting articles on AI, ML, GenAI, DL and CV. [Utkarsh Jain_MEDIUM](https://medium.com/@jainutkarsh18)
+- 📖 Blogs: Read interesting articles on AI, ML, GenAI, DL and CV. [Medium_Utkarsh Jain](https://medium.com/@jainutkarsh18)
 
 - 🔭 GitHub: Explore interesting projects on DL, GenAI and Data Science. [GitHub_JainUtkarsh18](https://github.com/JainUtkarsh18)
 
