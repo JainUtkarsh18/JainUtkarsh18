@@ -36,6 +36,10 @@
 <a href="https://kaggle.com/utkarshjain76" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPtl2QZhIZY0tLREWEAuan3YtJ3KSgS-ZH6wmiJu9BhDZhjiU39ZC5shbH&s=10" alt="utkarshjain76" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/jainutkarsh18" target="blank"><img align="center" src="https://media.licdn.com/dms/image/v2/C4E0BAQFvx45x7j4Zhg/company-logo_200_200/company-logo_200_200/0/1631325952086?e=2147483647&v=beta&t=8xDf3gL66GDEXwDszLlF7Lhpvq7vkdgdzfdm3M5F68E" alt="jainutkarsh18" height="40" width="40" /></a>
 <a href="https://medium.com/@jainutkarsh18" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/842/740/png-transparent-medium-medium-logo-social-media-rounded-corners-icon.png" alt="jainutkarsh18" height="40" width="40" /></a>
+<a href="https://discord.com/users/1551136499519586346" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/discord/5865F2" alt="utkarshjain164" height="40" width="40" />
+</a>
+  
 </p>
 
 ---
